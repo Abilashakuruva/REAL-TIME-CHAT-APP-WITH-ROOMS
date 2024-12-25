@@ -1,5 +1,5 @@
 A join-a-chat-room page:
-https://res.cloudinary.com/dzwzh1wki/image/upload/v1708194274/chat1_wamo4y.png
+(https://res.cloudinary.com/dzwzh1wki/image/upload/v1708194274/chat1_wamo4y.png)
 
 How our app home page will look: a form with username input, select room dropdown and Join Room button
 And a chat-room page:
